@@ -1,1 +1,1 @@
-# -Accident-Severity-Prediction-and-Risk-Pattern-Analysis-for-Smarter-Emergency-Response
+# Accident-Severity-Prediction-and-Risk-Pattern-Analysis-for-Smarter-Emergency-Response
